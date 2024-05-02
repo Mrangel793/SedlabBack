@@ -1,10 +1,5 @@
 import './bootstrap';
 
-import '@fortawesome/fontawesome-free/css/fontawesome.css';
-import '@fortawesome/fontawesome-free/css/brands.css';
-import '@fortawesome/fontawesome-free/css/regular.css';
-import '@fortawesome/fontawesome-free/css/solid.css';
-import '@fortawesome/fontawesome-free/css/v4-shims.css';
 
 document.addEventListener("DOMContentLoaded", function () {
     const body = document.querySelector("body");
